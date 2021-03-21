@@ -1,1 +1,2 @@
 # KryptoTrading
+# KryptoTrading
